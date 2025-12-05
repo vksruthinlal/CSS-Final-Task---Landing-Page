@@ -1,4 +1,5 @@
-# CSS-Final-Task---Landing-Page
+A clean and responsive landing page built using pure HTML and CSS.
+This project demonstrates fundamental UI development skills, including layout structuring, typography, spacing, and responsive design without any external frameworks or JavaScript.
 
 <img width="1919" height="1148" alt="landing-1" src="https://github.com/user-attachments/assets/937b1fbd-cc07-4371-846a-e69632deb5b3" />
 <img width="1902" height="1051" alt="landing-2" src="https://github.com/user-attachments/assets/f7336740-59b4-47e1-94ad-26e059f395b2" />
